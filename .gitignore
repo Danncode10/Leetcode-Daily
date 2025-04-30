@@ -1,0 +1,33 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyCharm specific
+.idea/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# macOS application files
+*~.nfs
+
+
